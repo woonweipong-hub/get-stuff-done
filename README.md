@@ -1,6 +1,6 @@
 <div align="center">
 
-# GET SHIT DONE
+# GET STUFF DONE
 
 **A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code, OpenCode, Gemini CLI, and Codex.**
 
